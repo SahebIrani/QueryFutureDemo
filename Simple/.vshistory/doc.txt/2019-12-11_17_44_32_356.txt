@@ -1,0 +1,19 @@
+﻿https://www.nuget.org/packages/Z.EntityFramework.Plus.QueryFuture.EFCore
+Install-Package Z.EntityFramework.Plus.QueryFuture.EFCore -Version 1.7.20
+
+https://www.nuget.org/packages/Z.EntityFramework.Plus.EFCore/
+Install-Package Z.EntityFramework.Plus.EFCore -Version 3.0.24
+
+https://stackoverflow.com/questions/7767409/better-way-to-query-a-page-of-data-and-get-total-count-in-entity-framework-4-1
+
+https://stackoverflow.com/questions/24221749/get-total-count-and-page-rows-in-same-database-trip-when-using-entity-framework
+
+https://github.com/zzzprojects/EntityFramework.Extended/wiki/Future-Queries
+
+https://entityframework-plus.net/ef6-query-future-paging
+
+https://entityframework-plus.net/query-future
+
+https://entityframework-plus.net/tutorial-query#query-future
+
+https://github.com/aspnet/EntityFrameworkCore/issues/13739

@@ -1,0 +1,7 @@
+﻿https://www.nuget.org/packages/Z.EntityFramework.Plus.QueryFuture.EFCore
+Install-Package Z.EntityFramework.Plus.QueryFuture.EFCore -Version 1.7.20
+
+https://www.nuget.org/packages/Z.EntityFramework.Plus.EFCore/
+Install-Package Z.EntityFramework.Plus.EFCore -Version 3.0.24
+
+
